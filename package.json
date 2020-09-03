@@ -1,0 +1,23 @@
+{
+  "name": "create-mblocks-app",
+  "version": "1.0.0",
+  "description": "This is a command-line tool for generating mBlocks Projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "create-mBlocks-app": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexMercedCoder/mBlocks-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexMercedCoder/mBlocks-template/issues"
+  },
+  "homepage": "https://github.com/AlexMercedCoder/create-basicelement-app#readme"
+}
