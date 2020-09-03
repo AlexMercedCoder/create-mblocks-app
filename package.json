@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlexMercedCoder/mBlocks-template.git"
+    "url": "git+https://github.com/AlexMercedCoder/create-mblocks-app.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AlexMercedCoder/mBlocks-template/issues"
+    "url": "https://github.com/AlexMercedCoder/create-mblocks-app/issues"
   },
-  "homepage": "https://github.com/AlexMercedCoder/create-basicelement-app#readme"
+  "homepage": "https://github.com/AlexMercedCoder/create-mblocks-app#readme"
 }
